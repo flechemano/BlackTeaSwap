@@ -1,0 +1,30 @@
+{
+  "$schema": "https://unpkg.com/@changesets/config@2.0.0/schema.json",
+  "changelog": [
+    "@changesets/changelog-github",
+    { "repo": "sushiswap/sushiswap" }
+  ],
+  "commit": false,
+  "fixed": [],
+  "linked": [],
+  "access": "public",
+  "baseBranch": "master",
+  "updateInternalDependencies": "patch",
+  "ignore": [
+    "@sushiswap/balances-api",
+    "@sushiswap/client",
+    "@sushiswap/pools-api",
+    "@sushiswap/react-query",
+    "@sushiswap/route-processor",
+    "@sushiswap/steer-vault-api",
+    "@sushiswap/storybook",
+    "@sushiswap/token-list-api",
+    "@sushiswap/token-price-api",
+    "@sushiswap/tokens-api",
+    "@sushiswap/ui",
+    "@sushiswap/wagmi",
+    "academy",
+    "blog",
+    "evm"
+  ]
+}

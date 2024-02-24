@@ -1,0 +1,7 @@
+packages:
+  - 'apis/*'
+  - 'apps/*'
+  - 'config/*'
+  - 'packages/**'
+  - 'protocols/*'
+  - 'jobs/*'
