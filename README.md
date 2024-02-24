@@ -1,6 +1,6 @@
 # Black-Tea Monorepo
 
-Sushi 2.0 🍣
+BTS 2.0 🍣
 
 ## Getting Started
 
