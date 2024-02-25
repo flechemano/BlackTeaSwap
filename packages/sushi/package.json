@@ -1,15 +1,15 @@
 {
-  "name": "sushi",
+  "name": "BlackTeaSwap",
   "version": "3.0.0",
-  "description": "Sushi",
+  "description": "BlackTeaSwap",
   "keywords": [
-    "sushi"
+    "BlackTeaSwap"
   ],
-  "homepage": "https://www.sushi.com",
+  "homepage": "https://www.github.com/flechemano/BlackTeaSwap",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sushiswap/sushiswap.git",
-    "directory": "packages/sushi"
+    "url": "https://github.com/flechemano/BlackTeaSwap.git",
+    "directory": "packages/BlackteaSwap"
   },
   "license": "MIT",
   "author": "Matthew Lilley <hello@matthewLilley.com>",
