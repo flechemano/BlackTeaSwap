@@ -1,7 +1,7 @@
 {
-  "name": "sushi",
-  "version": "0.0.0",
-  "private": true,
+  "name": "BlackTeaSwap",
+  "version": "0.0.1",
+  "private": false,
   "scripts": {
     "build": "dotenv -- turbo run build",
     "changeset": "changeset",
@@ -51,5 +51,9 @@
     "patchedDependencies": {
       "@viem/anvil@0.0.6": "patches/@viem__anvil@0.0.6.patch"
     }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/flechemano/BlackTeaSwap"
   }
 }
