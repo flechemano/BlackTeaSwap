@@ -1,5 +1,5 @@
 {
-  "name": "BlackTeaSwap",
+  "name": "blackteaswap",
   "version": "0.0.1",
   "private": false,
   "scripts": {
@@ -54,6 +54,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/flechemano/BlackTeaSwap"
-  }
+    "url": "git+https://github.com/flechemano/BlackTeaSwap.git"
+  },
+  "description": "BTS 2.0 🍣",
+  "bugs": {
+    "url": "https://github.com/flechemano/BlackTeaSwap/issues"
+  },
+  "homepage": "https://github.com/flechemano/BlackTeaSwap#readme",
+  "main": "commitlint.config.js",
+  "keywords": [
+    "blackteaswap"
+  ],
+  "author": "flechemano",
+  "license": "ISC"
 }
