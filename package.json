@@ -11,8 +11,19 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "^5.0.1",
-    "web-vitals": "^2.1.4"
+    "web-vitals": "^2.1.4",
+    "blacktea024": "^0.1.5"
   },
+  "dependents": [
+    {
+      "name": "@flechemano/black-tea",
+      "version": "0.0.9"
+    },
+    {
+      "name": "reet024",
+      "version": "1.0.0"
+    }
+  ],
   "author": "flechemano",
   "license": "ISC",
   "devDependencies": {
@@ -24,3 +35,4 @@
   },
   "private": false
 }
+
