@@ -1,6 +1,6 @@
 {
-  "name": "blackteaswap024",
-  "version": "0.0.12",
+  "name": "blackteaswap",
+  "version": "1.0.12",
   "description": "This project was bootstrapped with Create React App.",
   "scripts": {
     "start": "react-scripts start",
@@ -12,18 +12,30 @@
     "@flechemano/black-tea024": "^1.0.0",
     "react-scripts": "^5.0.1",
     "web-vitals": "^2.1.4",
-    "blacktea024": "^0.1.5"
+    "@flechemano/black-tea024": "^1.0.1",
+    "@flechemano/redsnowswap": "^1.2.3",
+    "@jridgewell/sourcemap-codec": "^1.4.15",
+    "@nryeah/sunflower": "^1.2.3",
+    "@rollup/plugin-terser": "^0.4.4",
+    "@truffle/hdwallet-provider": "^1.7.0",
+    "abab": "^2.0.6",
+    "babysamo": "^1.2.4",
+    "blackicetea024": "^1.0.1",
+    "blacktea024": "^0.1.7",
+    "blackteaswap024": "^0.0.16",
+    "blackteaufuk2024": "^1.2.3",
+    "bootstrap-tea": "^1.2.3",
+    "boringjobs7652": "^1.2.3",
+    "graceful-fs": "^4.2.11",
+    "gulp-util": "^3.0.8",
+    "minimatch": "^9.0.3",
+    "natives": "^1.1.6",
+    "nth-check": "^2.1.1",
+    "ontea1": "^1.2.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "reet024": "^0.0.6"
   },
-  "dependents": [
-    {
-      "name": "@flechemano/black-tea",
-      "version": "0.0.9"
-    },
-    {
-      "name": "reet024",
-      "version": "1.0.0"
-    }
-  ],
   "author": "flechemano",
   "license": "ISC",
   "devDependencies": {
